@@ -1,0 +1,9 @@
+.blue-circle {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+  }
