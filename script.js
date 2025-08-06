@@ -79,7 +79,7 @@ function createChatWidget() {
   }, 1000);
   floatingChat.addEventListener('click', openElement);
 }
-addStylesheet('https://raw.githubusercontent.com/AmmarHammamieh/testing/main/script.css', () => {
+addStylesheet('https://cdn.jsdelivr.net/gh/AmmarHammamieh/testing/script.css?v=85', () => {
   createChatWidget();
   element = document.getElementsByClassName('floating-chat')[0];
 });
