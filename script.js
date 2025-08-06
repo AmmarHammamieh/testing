@@ -1,6 +1,6 @@
 const link = document.createElement("link");
 link.rel = "stylesheet";
-link.href = "https://cdn.jsdelivr.net/gh/AmmarHammamieh/testing@main/script"; // path to your CSS file
+link.href = "https://cdn.jsdelivr.net/gh/AmmarHammamieh/testing@main/script.css"; // path to your CSS file
 document.head.appendChild(link);
 
 // Now create the circle
